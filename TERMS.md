@@ -1,6 +1,6 @@
 Terms of Service
 Effective Date: June 1, 2026 (v1.0) | Last Updated: June 1, 2026
-Data Controller: Alina Gorfina, Georgia / Tbilisi. Contact: Report.support@gmail.com
+Data Controller: Alina Gorfina, Georgia / Tbilisi. Contact: remode.support@gmail.com
 
 1. Acceptance of Terms
 By installing and using the Remode browser extension, you agree to these terms. Remode is a tool designed to assist with digital wellbeing through systemic “Transition Protocols.” By using Remode, you also agree to our Privacy Policy (see §12 below). You must be at least 16 years old (or 13 years old outside the European Economic Area) to use this extension.
@@ -54,4 +54,4 @@ We will notify you of material changes via in-app notice or the About page, at l
 If any provision of these Terms is found unenforceable, it shall be modified to the minimum extent necessary to make it enforceable. These Terms, together with the Privacy Policy, constitute the entire agreement between you and the developer regarding Remode.
 
 15. Contact
-For questions about these Terms: Report.support@gmail.com
+For questions about these Terms: remode.support@gmail.com
