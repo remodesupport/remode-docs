@@ -1,6 +1,6 @@
 Privacy Policy
 Effective Date: June 1, 2026 (v1.0) | Last Updated: June 1, 2026
-Data Controller: Alina Gorfina, Georgia / Tbilisi. Privacy requests: Report.support@gmail.com (response within 30 days as required by GDPR).
+Data Controller: Alina Gorfina, Georgia / Tbilisi. Privacy requests: remode.support@gmail.com (response within 30 days as required by GDPR).
 1. Overview Remode is built with a “Local-First” architecture. We believe that your productivity data should belong to you, and you alone. This policy explains how we handle your information (or rather, how we don’t).
 2. Data Collection & Storage Remode operates entirely within your browser.
 •	Extension Storage: All settings are stored via Chrome’s extension storage API (chrome.storage.local — distinct from the browser’s DOM window.localStorage). Storage keys include: isEnabled, isLocked, lockedSites, lockedUntil, redirectUrl, sitePassUntil, pausedUntil, siteBlockPolicies, budgetExtensionMs, dailyTimeBudgetMs, dailyUsageMs, onboardingCompleted, blockedSites.
@@ -18,7 +18,7 @@ Data Controller: Alina Gorfina, Georgia / Tbilisi. Privacy requests: Report.supp
 •	Cookies & Tracking: Remode does not use cookies, web beacons, pixels, or browser fingerprinting.
 •	Subprocessors: None. No third party processes your data on our behalf.
 •	Fonts: No external font CDN is used. All fonts are loaded locally via @font-face declarations bundled with the extension.
-•	Support Email: If you contact us at Report.support@gmail.com, your message is handled by Google (Gmail) under Google’s Privacy Policy.
+•	Support Email: If you contact us at remode.support@gmail.com, your message is handled by Google (Gmail) under Google’s Privacy Policy.
 •	Chrome Web Store: Google independently collects install and usage statistics for extensions listed on the Chrome Web Store, governed by Google’s own Privacy Policy.
 •	Future Third Parties: If a payment processor (such as Stripe or Paddle) is added when a subscription tier launches, this Privacy Policy will be updated before that change takes effect.
 5. Your Rights Since all data is stored locally on your device, you have full control. You can delete all your data at any time by simply uninstalling the extension from your browser.
