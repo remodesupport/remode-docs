@@ -22,12 +22,12 @@ Data Controller: Alina Gorfina, Georgia / Tbilisi. Privacy requests: remode.supp
 •	Chrome Web Store: Google independently collects install and usage statistics for extensions listed on the Chrome Web Store, governed by Google’s own Privacy Policy.
 •	Future Third Parties: If a payment processor (such as Stripe or Paddle) is added when a subscription tier launches, this Privacy Policy will be updated before that change takes effect.
 5. Your Rights Since all data is stored locally on your device, you have full control. You can delete all your data at any time by simply uninstalling the extension from your browser.
-6. Children’s Privacy Remode is not directed at children under 13 (or under 16 in the European Economic Area). We do not knowingly collect any information from children below these ages. If you believe a minor has used Remode, please contact us at Report.support@gmail.com.
+6. Children’s Privacy Remode is not directed at children under 13 (or under 16 in the European Economic Area). We do not knowingly collect any information from children below these ages. If you believe a minor has used Remode, please contact us at remode.support@gmail.com.
 7. Data Retention Your settings are retained in chrome.storage.local until you uninstall the extension. The developer has no ability to access or delete data stored on your device.
 8. Security chrome.storage.local data is stored on your device by Chrome and is not encrypted by Remode at the application level. The security of your data depends on your device security and Chrome profile configuration. We recommend using a device lock and a dedicated Chrome profile.
 9. Legal Basis for Processing (GDPR Art. 6) Where GDPR applies, the legal basis for processing your configuration data locally is: (a) performance of a contract — storing settings is necessary for the extension to function as you requested; and (b) our legitimate interest in providing a reliable product. No personal data is transmitted to us.
 10. CCPA Disclosure We do not sell or share personal information. Remode does not engage in the sale of personal data as defined under the California Consumer Privacy Act.
 11. International Data Transfers No data leaves your device. Remode does not transmit your data to any server, and therefore no international data transfers occur.
 12. Changes to This Policy This Privacy Policy may be updated from time to time. The current version is always available on the About page. By continuing to use Remode after an extension update, you accept the revised Policy.
-13. Contact For privacy-related requests: Report.support@gmail.com. We will respond within 30 days as required by GDPR.
+13. Contact For privacy-related requests: remode.support@gmail.com. We will respond within 30 days as required by GDPR.
 
