@@ -42,7 +42,7 @@ Remode incorporates open-source software including React 19, Tailwind CSS, shadc
 The developer reserves the right to discontinue Remode or remove it from the Chrome Web Store at any time. Locally stored settings remain on your device until you clear them manually or uninstall the extension. The developer has no ability to delete data stored on your device.
 
 11. Dispute Resolution
-If you have a dispute arising from these Terms, please contact us first at Report.support@gmail.com. We will endeavour to respond within 30 days. If unresolved informally, the dispute shall be submitted to courts of competent jurisdiction as specified in §12.
+If you have a dispute arising from these Terms, please contact us first at remode.support@gmail.com. We will endeavour to respond within 30 days. If unresolved informally, the dispute shall be submitted to courts of competent jurisdiction as specified in §12.
 
 12. Governing Law & Jurisdiction
 These Terms are governed by the laws of Georgia. Any dispute shall be subject to the exclusive jurisdiction of the courts of Tbilisi, Georgia.
